@@ -26,6 +26,7 @@ You can request changes by making a fork and opening a [pull request](https://gi
 * [Atreus](/keyboards/atreus/)
 
 The project also includes community support for [lots of other keyboards](/keyboards/).
+This version is using LVGL code I made using SquareLine Studio to customize the on-keyboard display
 
 ## Maintainers
 
